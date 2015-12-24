@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<items >
+
+<item name="Item text1">
+	<description><![CDATA[Merry Christmas <font size="36">&</font> <br> Happy New  Year!]]></description>
+</item>
+<item name="Item text2">
+	<description><![CDATA[<i>        From CHEN Shaodong to  <font color="#fff36d">Prof CAI lilong</font><br>We hope your holidays are unforgettable!</i>]]></description>
+</item>
+<item name="Item text3">
+	<description><![CDATA[<i>Our office will be closed from December, 24th to January, 1st. If you need to reach me please email <a href="url"><font color="#fffeec">shaodong.chen@kla-tencor.com</font></a></i>]]></description>
+</item>
+</items>

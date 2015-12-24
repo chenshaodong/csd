@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<items >
+
+<item name="Item text1">
+	<description><![CDATA[Merry Christmas <font size="36">&</font> <br> Happy New  Year!]]></description>
+</item>
+<item name="Item text2">
+	<description><![CDATA[<i>        From Shaodong CHEN to  <br><font color="#fff36d">              Professor Lijing ZHU</font><br>I hope your holidays are unforgettable!</i>]]></description>
+</item>
+<item name="Item text3">
+	<description><![CDATA[<i>Mechanical Engineer @ KLA-Tencor, Shanghai. If you need to reach me please email <a href="url"><font color="#fffeec">shaodong.chen@kla-tencor.com</font></a></i>]]></description>
+</item>
+</items>
